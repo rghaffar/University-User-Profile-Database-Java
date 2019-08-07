@@ -1,6 +1,6 @@
-Project Title: University User Profile Database
+# University User Profile Database
 
-Project Description: 
+# Project Description
 This application was created for a semester-long assignment in the Object Oriented Programming I course at the University of Baltimore, taught by Professor Giovanni Vincenti 
 The application allows users to create a new user profile, edit information, or display information about the profile stored
 Up to 5 profiles are stored in an array as objects within the Person class
@@ -11,22 +11,22 @@ The main class (named Assignment 4) prompts users to create/edit/display a profi
 If users choose to create a profile, he/she enters their University position and attributes specific to that position.
 The user-entered attributes, once checked for appropriateness/accuracy, are stored in an object for display and editing
 
-Getting Started:
+# Getting Started
 Prerequisites: Download a Java Development Environment, such as Java JDK (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 or Eclipse IDE (https://www.eclipse.org/downloads/)
 
-Running Tests:
+# Running Tests
 Test the application by running Assignment3test, a Java test file
 
-Deployment:
+# Deployment
 Run the main class on Java IDE or Command Prompt if JDK is installed
 
-Built With:
+# Built With:
 Eclipse Photon Java IDE
 
-Authors
+# Authors
 Rasa Ghaffarian 
 See also the list of contributors who participated in this project.
 
-Acknowledgments
-Professor Giovanni Vincenti provided the essential knowledge and curriculum for creating this applicatiom
+# Acknowledgments
+Professor Giovanni Vincenti provided the essential knowledge and curriculum for developing this application
